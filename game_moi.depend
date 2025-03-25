@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1714013117 source:d:\game_moi\math.cpp
+	<iostream>
+	"Vector2f.hpp"
+
+1714012771 d:\game_moi\vector2f.hpp
+
+1714013069 source:d:\game_moi\entity.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+	"Vector2f.hpp"
+
+1714012895 d:\game_moi\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+
+1714015048 source:d:\game_moi\mouse.cpp
+	"Mouse.hpp"
+
+1714012830 d:\game_moi\mouse.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1714012858 d:\game_moi\square.hpp
+	<array>
+	<vector>
+	"Vector2f.hpp"
+	"Entity.hpp"
+
+1714015486 source:d:\game_moi\board.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714012938 d:\game_moi\board.hpp
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+
+1714012944 source:d:\game_moi\square.cpp
+	<iostream>
+	<vector>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1714020050 source:d:\game_moi\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<utility>
+	<algorithm>
+	<vector>
+	<ctime>
+	"RenderWindow.hpp"
+	"Mouse.hpp"
+	"Entity.hpp"
+	"Board.hpp"
+	"Square.hpp"
+	"Vector2f.hpp"
+
+1714013049 d:\game_moi\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714048264 source:d:\game_moi\render_window.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<string>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\board.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714109192 d:\file app\yukigame-master\yukigame-master\vector2f.hpp
+
+1714109192 d:\file app\yukigame-master\yukigame-master\mouse.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1714109192 d:\file app\yukigame-master\yukigame-master\square.hpp
+	<array>
+	<vector>
+	"Vector2f.hpp"
+	"Entity.hpp"
+
+1714109192 d:\file app\yukigame-master\yukigame-master\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+
+1714109192 d:\file app\yukigame-master\yukigame-master\board.hpp
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\entity.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+	"Vector2f.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<utility>
+	<algorithm>
+	<vector>
+	<ctime>
+	"RenderWindow.hpp"
+	"Mouse.hpp"
+	"Entity.hpp"
+	"Board.hpp"
+	"Square.hpp"
+	"Vector2f.hpp"
+
+1714109192 d:\file app\yukigame-master\yukigame-master\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\math.cpp
+	<iostream>
+	"Vector2f.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\mouse.cpp
+	"Mouse.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\render_window.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<string>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1714109192 source:d:\file app\yukigame-master\yukigame-master\square.cpp
+	<iostream>
+	<vector>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1742802030 source:d:\yukigame-master\board.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1740541153 d:\yukigame-master\vector2f.hpp
+
+1714109192 d:\yukigame-master\mouse.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1739951364 d:\yukigame-master\square.hpp
+	<array>
+	<vector>
+	"Vector2f.hpp"
+	"Entity.hpp"
+
+1714109192 d:\yukigame-master\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"Vector2f.hpp"
+
+1739951279 d:\yukigame-master\board.hpp
+	<vector>
+	"Vector2f.hpp"
+	"Mouse.hpp"
+	"Square.hpp"
+
+1742802684 source:d:\yukigame-master\entity.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+	"Vector2f.hpp"
+
+1742804077 source:d:\yukigame-master\math.cpp
+	<iostream>
+	"Vector2f.hpp"
+
+1742804323 source:d:\yukigame-master\mouse.cpp
+	"Mouse.hpp"
+
+1742804952 source:d:\yukigame-master\render_window.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<string>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1739951364 d:\yukigame-master\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"Entity.hpp"
+	"Square.hpp"
+	"Board.hpp"
+
+1739951279 source:d:\yukigame-master\square.cpp
+	<iostream>
+	<vector>
+	"Vector2f.hpp"
+	"Square.hpp"
+
+1742803901 source:d:\yukigame-master\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<iostream>
+	<utility>
+	<algorithm>
+	<vector>
+	<ctime>
+	"RenderWindow.hpp"
+	"Mouse.hpp"
+	"Entity.hpp"
+	"Board.hpp"
+	"Square.hpp"
+	"Vector2f.hpp"
+
+1740555029 source:d:\yukigame-master\tesst.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<iostream>
+	<utility>
+	<algorithm>
+	<vector>
+	<ctime>
+	"RenderWindow.hpp"
+	"Mouse.hpp"
+	"Entity.hpp"
+	"Board.hpp"
+	"Square.hpp"
+	"Vector2f.hpp"
+
